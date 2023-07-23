@@ -1,0 +1,15 @@
+C:\temp\Jaga\M1MarkingApp\M1Marking3\obj\Debug\M1Marking3.csproj.AssemblyReference.cache
+C:\temp\Jaga\M1MarkingApp\M1Marking3\obj\Debug\OCSMarking3.Form1.resources
+C:\temp\Jaga\M1MarkingApp\M1Marking3\obj\Debug\OCSMarking3.FormReadALl.resources
+C:\temp\Jaga\M1MarkingApp\M1Marking3\obj\Debug\OCSMarking3.Frmtest.resources
+C:\temp\Jaga\M1MarkingApp\M1Marking3\obj\Debug\OCSMarking3.Properties.Resources.resources
+C:\temp\Jaga\M1MarkingApp\M1Marking3\obj\Debug\M1Marking3.csproj.GenerateResource.cache
+C:\temp\Jaga\M1MarkingApp\M1Marking3\obj\Debug\M1Marking3.csproj.CoreCompileInputs.cache
+C:\temp\Jaga\M1MarkingApp\M1Marking3\bin\Debug\M1Marking3.exe.config
+C:\temp\Jaga\M1MarkingApp\M1Marking3\bin\Debug\M1Marking3.exe
+C:\temp\Jaga\M1MarkingApp\M1Marking3\bin\Debug\M1Marking3.pdb
+C:\temp\Jaga\M1MarkingApp\M1Marking3\bin\Debug\M1MarkingDLL.dll
+C:\temp\Jaga\M1MarkingApp\M1Marking3\bin\Debug\M1MarkingDLL.pdb
+C:\temp\Jaga\M1MarkingApp\M1Marking3\obj\Debug\M1Marking3.csproj.CopyComplete
+C:\temp\Jaga\M1MarkingApp\M1Marking3\obj\Debug\M1Marking3.exe
+C:\temp\Jaga\M1MarkingApp\M1Marking3\obj\Debug\M1Marking3.pdb
